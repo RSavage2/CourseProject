@@ -2,7 +2,7 @@
 
 Rashaud Savage - rsavage3
 
-I will only be one team member on this team and will serve as the team captain and take care of all administrative duties. My free topic is to create a search engine to recommend games from the 4th and 5th generation of game consoles
+I will be the only team member on this team and will serve as the team captain and take care of all administrative duties. My free topic is to create a search engine to recommend video games from the 4th and 5th generation of game consoles
 Instead of buying new consoles, get your hands on these classics that are cheaper. You will be able to search for a game and it will find it and recommend other titles you may be interested in from 4th and 5th gen console games. 
 The data will come from video game database API's GiantBombAPI and potential other such as IGDB API. For data, the plan to use a few apis to build a complete dataset to be used within my search engine. At this time I have not decided which recommendation algo I will use. 
 The expected outcome is that when a user searches for a game a game image and meta data will appear of the game searched and there will be a recommended section on the page where retro games, that are similar to the game searched, will appear. To evaluate the success of this project 
