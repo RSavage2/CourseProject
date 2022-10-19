@@ -1,4 +1,4 @@
-## Game Finder Search Engine (name pending)
+## Game Finder Search Engine (Final project name pending)
 
 Rashaud Savage - rsavage3
 
