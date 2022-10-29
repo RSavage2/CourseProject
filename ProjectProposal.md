@@ -9,4 +9,16 @@ The expected outcome is that when a user searches for a game a game image and me
 I will start by looking at  the similarities of the genre of the games recommended as well as the similarity of the stories or gameplay between the searched game and recommended games.
 
 This project will be created using python and its libraries, this project will also be using flask as a framework. Given that I am working alone total working time will be, at minimum, 20 hours of work to get the project completed. I may spend
-some time working on the U.I. as well to improove the user experience but that will come at the end after the main functionality has been achieved.
+some time working on the U.I. as well to improve the user experience but that will come at the end after the main functionality has been achieved.
+
+The project will be composed of the following:
+
+- Data processing 
+  - Tokenization, stop word removal, stemming, and lemmatization
+- Learning
+  - Feature extraction
+  - Model selection
+- Evaluation (sentiment) 
+  - From the above evaluations, mine the pages for more specific information using topic modeling
+- User interface
+
