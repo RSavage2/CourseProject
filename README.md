@@ -3,10 +3,9 @@
 ## Team Members
 * Rashaud Savage - rsavage3
 
-## Motivation
-1. This project was created for CS 410 
+## Overview
 
-2. This search engine was created for users who are retro game enthusiasts as well as for those who may not necessarily be able to get the latest games right away. This search engine takes the title of a game and recommends retro games that may be similar in title, theme, and/or gameplay, etc.
+1. This search engine was created for users who are retro game enthusiasts as well as for those who may not necessarily be able to get the latest games right away. This search engine takes the title of a game and recommends retro games that may be similar in title, theme, and/or gameplay, etc.
 
 ### Tech Stack
 
