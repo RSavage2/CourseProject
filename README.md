@@ -58,6 +58,13 @@ GIANTBOMB_API = " " # NEED TO INCLUDE API KEY! https://www.giantbomb.com/api/
 ```bash
 pip install -r requirements.txt
 ```
+
+2b. Alternatively, if you prefer, there is a docker file included to help build an image on docker:
+* `dockerfile`
+    * A text document that contains all the commands a user could call on the command line to assemble an image of the project
+    * Build the image
+    * Go to docker and deploy the image
+
 The initial setup in order to build this project is ready.
 
 ### Running the project
