@@ -40,7 +40,7 @@
     * contains the data from Giantbomb for Super Nintendo Entertainment System games.
 * `n64_games.csv`
     * contains the data from Giantbomb for Nintendo 64 games.
-* `dataset_fuser.csv`
+* `dataset_fuser.py`
     * contains the code to fuse all game csv into one dataset.
 
 ### Initial Setup
