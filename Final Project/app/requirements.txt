@@ -1,0 +1,7 @@
+rank_bm25
+gensim
+pybomb
+dash
+dash-dangerously-set-inner-html
+requests
+gunicorn
