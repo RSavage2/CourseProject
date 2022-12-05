@@ -1,6 +1,6 @@
 import pybomb
 
-my_key = "3c5c41d657ce9b9ec4a3e752bf98a1a7de0e412a"
+my_key = " "
 game_client = pybomb.GameClient(my_key)
 
 game_id = 80643
