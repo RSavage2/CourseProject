@@ -1,6 +1,6 @@
 # Retro Game Recommendation Search Engine
 
-## Rashaud Savage - Rsavage3
+## Rashaud Savage - rsavage3
 
 ## Motivatiuon
 1. This project was created for CS 410 
