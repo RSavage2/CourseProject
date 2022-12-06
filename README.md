@@ -47,7 +47,7 @@
 
 These setup instructions are for MacOS Users and UNIX users, but can be adapted for other platforms too.
 
-1. Get a [GiantBomb API Key](https://www.giantbomb.com/api/) from the Giantbomb site by signing up for a **FREE** account. Then add to the `app.py` file on the following line:
+1. Get a [GiantBomb API Key](https://www.giantbomb.com/api/) from the Giantbomb site by signing up for a **FREE** account. Then add to the `app.py` file, inside the quotation marks, on the following line:
 
 ```bash
 GIANTBOMB_API = " " # NEED TO INCLUDE API KEY! https://www.giantbomb.com/api/
