@@ -78,6 +78,16 @@ python app.py
 This should open up the search interface on http://127.0.0.1:8050/  (Please double check the Local URL its running on from console output)
 
 
+### How to Use
+1. In the search bar search names of games and see recommendations appear.
+2. For those not too familiar with video games, a few games you can search to test the program include:
+* God of War
+* Need for Speed
+* 007
+* Crash Bandicoot
+* Super Mario Bros
+* There are also some examples used in the presentation video located in a zipped file `presentation video.zip` in this repo.
+
 ### Python Package Documentation
 
 You can read more about the python packages and API's used for this project here:
